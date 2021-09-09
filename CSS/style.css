@@ -1,0 +1,97 @@
+*{ 
+    border: 1px solid black;
+    font-size: 18px;
+    font-weight: 549;
+    cursor:default;
+}
+
+body{
+    margin: 2% 23%;
+    background: url(../images/fondo.jpg);
+    background-size: 100%;
+}
+
+div{
+    background: white;}
+
+h1, p, h2{
+    margin: 1% 22% 1% 1%;
+    padding: 1%;
+    text-align: justify;
+    background: rgba(57, 58, 58, 0.07)
+}
+
+h1{
+    color: rgb(6, 165, 165);
+    font-size: 35px;
+    background: rgba(190, 59, 162, 0.205);
+}
+
+h1, .r1, h2, .tit_tabla, .r7{
+    font-weight: 900;
+}
+
+.r1, .r2, .red{
+    color: rgba(241, 36, 36, 0.767);
+}
+
+.relevante{
+background: rgba(82, 137, 192, 0.192);
+}
+
+h2{
+    font-size: 25px;
+    background: rgba(190, 59, 162, 0.205);
+}
+
+h2, th, .r3{
+    color: blue;
+}
+
+.r2, .r8{
+    text-decoration: underline;
+}
+
+.r3, .r5{
+    font-style: italic;
+}
+
+.r3{
+    background: rgba(190, 59, 162, 0.205)
+}
+
+.r4{
+    color: rgba(156, 11, 156, 0.692);
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    height: 150px;
+}
+
+th{
+    background: rgba(190, 59, 162, 0.205);;
+}
+
+table tr td:nth-child(1), tbody tr:nth-child(1){
+    background: rgba(72, 73, 73, 0.19);
+}
+
+.yellow{
+    color: rgb(255, 174, 0);
+}
+
+td, .r8{
+    color: rgb(6, 192, 6)
+}
+
+main{
+    color: rgb(180, 180, 22);
+}
+
+.r7{
+    color: rgba(235, 117, 219, 0.938);
+}
+
+
